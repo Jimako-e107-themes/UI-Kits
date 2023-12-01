@@ -6,7 +6,7 @@ cleaning my own repo
 https://github.com/Jimako-e107-themes/bootstrap-ui-components
 
 ## UIX KIT
-https://github.com/Jimako-e107-themes/uix-kit
+https://github.com/xizon/uix-kit
 
 ## Boomerand
 https://github.com/Jimako-e107-themes/boomerang-ui-kit
